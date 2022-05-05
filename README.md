@@ -6,12 +6,11 @@
 ## Personal Profiles
 
 by [Qitong Cao]
+<center>
+<img src="https://github.com/CSEcon/Natalie_Cao_CSEcon206_Spring2022/blob/main/photo.jpg" style="width: 150px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+</center>
 
-
-![Profile Photo](./photo.jpg)
-
-
-**Profile Photo**
+**Profile Photo** 
 
 As an Applied Math Major, Natalie is proficient in R studio analytics, Stata, MATLAB Modeling, and all Microsoft office applications. Having interned as business and financial analyst for two years, Natalie has developed strong leadership skills, analytical nature, and in-depth understanding of portfolio management across various industries. 
 
