@@ -36,7 +36,7 @@ Consortium blockchain has been gaining increasing attention with the advantages 
 
 ### 2. Research Questions
 
-How to improve the efficiency and security of consortium blockchain?
+How to improve the efficiency and security of consortium blockchain? The "efficiency" refers to time efficiency specifically, namely the consensus time after processing quantities of transactions using the three algorithms (Sun et al. 2020). Security refers to the resistance of voting-based decentralized consensus (VDC) to prevalent attacks, including Doube Spending, Selfish Packing, and Targeted Attacks. The paper measures the corresponding probability of success as a criterion for security (Sun et al. 2020).
 
 ### 3. Methods
 
